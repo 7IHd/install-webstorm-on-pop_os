@@ -17,3 +17,6 @@ cd opt/WebStorm-\*/bin
 ```
 
 Run `webstorm.sh` from the bin subdirectory.
+
+# Helpful Links
+[Linux | How to create a desktop shortcut](https://intellij-support.jetbrains.com/hc/en-us/community/posts/207111509-Linux-how-to-create-desktop-shortcut) :smile:
